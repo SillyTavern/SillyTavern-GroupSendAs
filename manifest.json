@@ -1,0 +1,11 @@
+{
+    "display_name": "Group SendAs",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "Cohee1207 & Saref111",
+    "version": "0.1.0",
+    "homePage": "https://github.com/Cohee1207/SillyTavern-GroupSendAs"
+}
